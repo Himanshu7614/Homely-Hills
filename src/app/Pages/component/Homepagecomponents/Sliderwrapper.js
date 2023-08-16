@@ -43,7 +43,7 @@ function Sliderwrapper() {
             <div>
             <div className="flex items-center gap-2">
               <Link href="tel:9421343270">
-                <Button className="px-3 bg-green-950" buttonname={"Call Us"} />
+                <Button className="px-3 py-2 bg-green-950" buttonname={"Call Us"} />
               </Link>
               <Link href="https://abnb.me/6StR3kWuQBb">
                 <ButtonAbn className="px-3 py-2 bg-red-500  " buttonname={"Book  Now  "} />

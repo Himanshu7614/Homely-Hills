@@ -57,7 +57,7 @@ function Gallery() {
                   className="font-bold text-[#835C3B] leading-normal uppercase z-10"
                 />
                 <H5
-                  heading="Welcome to Homely Hills Homestay, where we are on a mission to introduce you to the enchanting beauty of the Garhwal region in Uttarakhand. Our initiative is all about embracing village tourism and letting you experience the true essence of rural life, complete with the comforts of home, delicious homemade garhwali meals, serene budget-friendly stays, exciting camping adventures, and the mesmerizing charm of stargazing  and moonrise in the high-altitude villages of Uttarakhand."
+                  heading="The Jaunpuri Garhwali culture, nestled in the breathtaking hills of the Garhwal region, is a testament to the rich tapestry of traditions that have thrived in this picturesque landscape for centuries. This culture is a captivating blend of art, music, festivals, and a way of life deeply intertwined with nature."
                   className="textline"
                 />
               </div>
@@ -94,7 +94,7 @@ function Gallery() {
                   className="font-bold text-[#835C3B] leading-normal uppercase z-10 textline"
                 />
                 <H5
-                  heading="Welcome to Homely Hills Homestay, where we are on a mission to introduce you to the enchanting beauty of the Garhwal region in Uttarakhand. Our initiative is all about embracing village tourism and letting you experience the true essence of rural life, complete with the comforts of home, delicious homemade garhwali meals, serene budget-friendly stays, exciting camping adventures, and the mesmerizing charm of stargazing  and moonrise in the high-altitude villages of Uttarakhand."
+                  heading="Tracking through the rugged terrain of Jaunpuri Garhwal unveils a world of awe-inspiring landscapes. Majestic mountains, lush valleys, and pristine rivers provide a picturesque backdrop for explorations. Trails that wind through dense forests and lead to hidden waterfalls offer a chance to witness the region's rich biodiversity up close. The guidance of local trackers adds an insightful dimension."
                   className="textline"
                 />
               </div>
@@ -132,7 +132,7 @@ function Gallery() {
                   className="font-bold text-[#835C3B] leading-normal uppercase z-10 textline"
                 />
                 <H5
-                  heading="Welcome to Homely Hills Homestay, where we are on a mission to introduce you to the enchanting beauty of the Garhwal region in Uttarakhand. Our initiative is all about embracing village tourism and letting you experience the true essence of rural life, complete with the comforts of home, delicious homemade garhwali meals, serene budget-friendly stays, exciting camping adventures, and the mesmerizing charm of stargazing  and moonrise in the high-altitude villages of Uttarakhand."
+                  heading="The allure of wooden homes lies not only in their visual aesthetics but also in the innate warmth they exude. The natural textures and patterns of wood create an inviting ambiance, making inhabitants and visitors feel instantly at ease. Every wooden plank holds a story, revealing the passage of time as it ages gracefully, much like the landscapes that surround it."
                   className="textline"
                 />
               </div>
@@ -169,7 +169,7 @@ function Gallery() {
                   className="font-bold text-[#835C3B] leading-normal uppercase z-10 textline"
                 />
                 <H5
-                  heading="Welcome to Homely Hills Homestay, where we are on a mission to introduce you to the enchanting beauty of the Garhwal region in Uttarakhand. Our initiative is all about embracing village tourism and letting you experience the true essence of rural life, complete with the comforts of home, delicious homemade garhwali meals, serene budget-friendly stays, exciting camping adventures, and the mesmerizing charm of stargazing  and moonrise in the high-altitude villages of Uttarakhand."
+                  heading="The essence of Garhwali cuisine lies in its ability to extract profound flavors from simple ingredients. Each dish narrates a story of adapting to the mountainous terrain, where locally sourced produce takes center stage. Phaanu, a hearty lentil stew, and Mandua Roti, made from finger millet, create a harmonious blend of taste and sustenance."
                   className="textline"
                 />
               </div>
